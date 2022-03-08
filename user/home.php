@@ -24,7 +24,7 @@ include "navbar.php";
         </h4>
       </div>
     </div>
-    <img src="book.png" style="float: right; width: 700px;margin-right : 120px; margin-top : 80px">
+    <img src="../src/book.png" style="float: right; width: 700px;margin-right : 120px; margin-top : 80px">
   </div>
 </body>   
 <script src="/docs/5.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script> 

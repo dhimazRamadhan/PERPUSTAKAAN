@@ -26,7 +26,7 @@
         }
       }
        section {
-       background-image: url('Group.png');
+       background-image: url('../src/Group.png');
        background-repeat: no-repeat;
        background-size: cover;
     }

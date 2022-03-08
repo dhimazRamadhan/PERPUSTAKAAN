@@ -29,7 +29,7 @@
       }
 
       body {
-       background-image: url('Login.png');
+       background-image: url('../src/Login.png');
        background-repeat: no-repeat;
        background-size: cover;
     }
@@ -41,7 +41,7 @@
   <body class="text-center"> 
 <main class="form-signin" style="font-family: Arial">
   <form action="proses_login.php" method="POST" class="position-absolute top-50 start-50 translate-middle" style="width:400 ">
-    <img class="mb-4" src="logo.png"  width="190">
+    <img class="mb-4" src="../src/logo.png"  width="190">
     <h1 class="h3 mb-3 fw-normal" style="color: white; font-weight: bold !important;">Perpustakaan</h1>
 
     <div class="form-floating" style="padding-bottom: 8px">
